@@ -6,8 +6,9 @@ body {
 
 h1 {
   margin-top: 0;
+  margin-bottom: 0;
   font-family: "Sacramento", cursive;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 h2 {
@@ -16,6 +17,11 @@ h2 {
 
 h3 {
   font-family: "Montserrat", sans-serif;
+}
+
+p {
+  margin: 0;
+  font-size: 13px;
 }
 
 .top-container {
@@ -29,17 +35,19 @@ h3 {
   width: 5%;
   position: absolute;
   right: 27%;
-  top: 8%;
+  top: 6%;
 }
 
 .bottom-cloud {
   width: 5%;
   position: absolute;
   right: 70%;
-  top: 25%;
+  top: 28%;
 
 }
 
 .mountain {
-
+  width: 30%;
+  position: relative;
+  margin-top: 5%;
 }
