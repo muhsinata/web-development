@@ -7,14 +7,28 @@ h1 {
 
 }
 
+.top-container {
+  background-color: #DDF3F5;
+  position: relative;
+  padding-top: 8%;
+
+}
+
 .top-cloud {
   width: 5%;
+  position: absolute;
+  right: 27%;
+  top: 7%;
+}
+
+.bottom-cloud {
+  width: 5%;
+  position: absolute;
+  right: 70%;
+  top: 25%;
+
 }
 
 .mountain {
 
-}
-
-.top-container {
-  background-color: #DDF3F5;
 }
