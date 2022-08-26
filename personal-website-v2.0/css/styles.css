@@ -7,18 +7,14 @@ h1 {
 
 }
 
+.top-cloud {
+  width: 5%;
+}
+
+.mountain {
+
+}
+
 .top-container {
-  background-color: #E4F9F5;
-}
-
-.middle-container {
-  height: 200px;
-  width: 200px;
-  background-color: blue;
-}
-
-.bottom-container {
-  height: 200px;
-  width: 200px;
-  background-color: red;
+  background-color: #DDF3F5;
 }
