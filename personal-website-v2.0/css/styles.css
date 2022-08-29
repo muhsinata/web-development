@@ -9,6 +9,7 @@ h1 {
   margin-bottom: 0;
   font-family: "Sacramento", cursive;
   font-size: 90px;
+  display: inline;
 }
 
 h2 {
@@ -20,34 +21,22 @@ h3 {
 }
 
 p {
+
+}
+
+.data_scientist {
   margin: 0;
-  font-size: 13px;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
 }
 
 .top-container {
-  background-color: #DDF3F5;
+  background-color: #F0EBE3;
   position: relative;
-  padding-top: 9%;
+  padding-top: 8%;
 
 }
 
-.top-cloud {
-  width: 5%;
-  position: absolute;
-  right: 27%;
-  top: 6%;
-}
-
-.bottom-cloud {
-  width: 5%;
-  position: absolute;
-  right: 70%;
-  top: 28%;
-
-}
-
-.mountain {
-  width: 30%;
-  position: relative;
-  margin-top: 5%;
+.pie_chart {
+  width: 18%;
 }
