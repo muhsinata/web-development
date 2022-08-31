@@ -20,8 +20,9 @@ h3 {
   margin: 0;
   font-family: "Sacramento", cursive;
   font-size: 90px;
+  text-align: right;
   position: relative;
-  left: 200px;
+  right: 300px;
   top: 100px;
 }
 
@@ -29,15 +30,10 @@ h3 {
   margin: 0;
   font-size: 15px;
   font-family: "Montserrat", sans-serif;
+  text-align: right;
   position: relative;
-  left: 200px;
+  right: 383px;
   top: 80px;
-}
-
-.top-container {
-  background-color: #F0EBE3;
-  position: relative;
-  padding-top: 8%;
 }
 
 #network_icon {
@@ -45,4 +41,14 @@ h3 {
   right: 250px;
   bottom: 130px;
   width: 25%;
+}
+
+#avatar_img {
+  width: 10%;
+}
+
+.top-container {
+  background-color: #F0EBE3;
+  position: relative;
+  padding-top: 8%;
 }
