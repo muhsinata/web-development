@@ -6,40 +6,19 @@ body {
 
 h1 {
   font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
 }
 
 h2 {
   font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
 }
 
 h3 {
   font-family: "Montserrat", sans-serif;
 }
 
-#my_name {
-  margin: 0;
-  font-family: "Sacramento", cursive;
-  font-size: 5.625rem;
-  text-align: right;
-  position: relative;
-  right: 300px;
-  top: 100px;
-}
-
-#data_scientist {
-  margin: 0;
-  font-size: 15px;
-  font-family: "Montserrat", sans-serif;
-  text-align: right;
-  position: relative;
-  right: 383px;
-  top: 80px;
-}
-
 #network_icon {
-  position: relative;
-  right: 250px;
-  bottom: 130px;
   width: 25%;
 }
 
@@ -50,7 +29,7 @@ h3 {
 .top-container {
   background-color: #F0EBE3;
   position: relative;
-  padding-top: 8%;
+  padding-top: 3%;
 }
 
 .skills_images {
