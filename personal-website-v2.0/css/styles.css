@@ -7,6 +7,7 @@ body {
 h1 {
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
 }
 
 h2 {
@@ -28,7 +29,6 @@ h3 {
 
 .top-container {
   background-color: #F0EBE3;
-  position: relative;
   padding-top: 3%;
 }
 
