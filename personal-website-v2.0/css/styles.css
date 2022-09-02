@@ -33,7 +33,8 @@ h3 {
 
 .top-container {
   background-color: #F0EBE3;
-  padding-top: 3%;
+  position: relative;
+  padding-top: 100px;
 }
 
 .skills_images {
