@@ -39,6 +39,8 @@ h3 {
 
 .skills_images {
   width: 20%;
+  float: left;
+  margin-right: 30px;
 }
 
 .skill-row {
