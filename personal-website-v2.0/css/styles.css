@@ -39,6 +39,10 @@ h3 {
   padding-top: 100px;
 }
 
+.middle-container {
+  margin: 100px 0;
+}
+
 .coding_img {
   width: 20%;
   float: left;
