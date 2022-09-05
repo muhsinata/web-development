@@ -25,6 +25,10 @@ h3 {
   font-family: "Montserrat", sans-serif;
 }
 
+p {
+  line-height: 2;
+}
+
 #network_icon {
   width: 25%;
 }
@@ -59,7 +63,6 @@ h3 {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
 }
 
 .intro-text {
