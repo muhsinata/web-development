@@ -61,3 +61,8 @@ h3 {
   text-align: left;
   line-height: 2;
 }
+
+.intro-text {
+  width: 30%;
+  margin: auto;
+}
