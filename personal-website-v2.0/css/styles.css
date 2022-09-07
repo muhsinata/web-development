@@ -29,6 +29,17 @@ p {
   line-height: 2;
 }
 
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
